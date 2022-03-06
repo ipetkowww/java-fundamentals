@@ -1,1 +1,1 @@
-# java-fundamentals
+# Java Fundamentals Course @ SoftUni
